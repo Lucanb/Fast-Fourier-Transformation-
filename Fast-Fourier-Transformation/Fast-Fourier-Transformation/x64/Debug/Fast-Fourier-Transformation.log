@@ -1,0 +1,3 @@
+﻿  Fast-Fourier-Transformation.cpp
+E:\Fast-Fourier-Transformation\Fast-Fourier-Transformation\Fast-Fourier-Transformation.cpp(41,19): warning C4244: 'argument': conversion from 'size_t' to 'const std::complex<double>::_Ty', possible loss of data
+  Fast-Fourier-Transformation.vcxproj -> E:\Fast-Fourier-Transformation\x64\Debug\Fast-Fourier-Transformation.exe
